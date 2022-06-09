@@ -1,0 +1,37 @@
+@media screen and (max-width: 900px) {
+  .hamburger {
+    display: block;
+  }
+
+  .title {
+    font-size: 35px;
+  }
+
+  .header-menu {
+    display: none;
+  }
+
+  .containers {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .project-wrapper {
+    flex-direction: column;
+  }
+
+  .image {
+    width: 85%;
+    margin: 0 auto;
+  }
+
+  .detail {
+    width: 85%;
+    margin: 30px auto;
+  }
+
+  .rink {
+    text-align: right;
+  }
+}
+/*# sourceMappingURL=media.css.map */
